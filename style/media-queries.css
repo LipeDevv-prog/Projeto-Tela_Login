@@ -54,9 +54,9 @@ Telas Grandes : Acima de 1200px
     background-position: center center;
   }
 
-  #formulário {
+  #formulario {
     float: right;
     width: 50%;
-    width: 100%;
+    height: 100%;
   }
 }
